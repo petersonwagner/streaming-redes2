@@ -1,0 +1,7 @@
+2019-06-07 23:14:02,181 - INFO - Iniciando cliente
+2019-06-07 23:14:02,182 - INFO - Cliente iniciado
+2019-06-07 23:14:02,182 - INFO - enviando pedido para receber o streaming
+2019-06-07 23:14:31,250 - ERROR - Conexao com o servidor foi perdida (timeout 10 segundos)
+2019-06-07 23:14:31,252 - INFO - Numero total de pacotes recebidos: 11259
+2019-06-07 23:14:31,252 - INFO - Numero total de pacotes perdidos: 0
+2019-06-07 23:14:31,252 - INFO - Numero total de pacotes trocados: 0

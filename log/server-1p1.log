@@ -1,0 +1,41 @@
+2019-06-07 23:12:54,544 - INFO - Criando servidor com parametros host: 10.254.224.52, port:55000, interval: 0.5
+2019-06-07 23:12:54,544 - INFO - Criando socket UDP
+2019-06-07 23:12:54,544 - INFO - Binding server no endereço (10.254.224.52,55000)
+2019-06-07 23:12:54,544 - INFO - iniciando gerador de lerolero
+2019-06-07 23:12:57,158 - INFO - gerador de lerolero iniciado
+2019-06-07 23:12:57,158 - INFO - Iniciando servidor
+2019-06-07 23:12:57,159 - INFO - Iniciando thread de listening
+2019-06-07 23:12:57,159 - INFO - Iniciando thread de streaming
+2019-06-07 23:12:57,164 - INFO - Servidor iniciado
+2019-06-07 23:12:58,767 - INFO - Dados recebidos do endereço ('10.254.224.48', 59526): {'request': 'receive_streaming'}
+2019-06-07 23:12:58,778 - INFO - novo cliente: ('10.254.224.48', 59526)
+2019-06-07 23:12:58,788 - INFO - lista de clientes ativos: [('10.254.224.48', 59526)]
+2019-06-07 23:12:58,788 - INFO - sending message(id:9) to ('10.254.224.48', 59526)
+2019-06-07 23:12:59,290 - INFO - sending message(id:10) to ('10.254.224.48', 59526)
+2019-06-07 23:12:59,791 - INFO - sending message(id:11) to ('10.254.224.48', 59526)
+2019-06-07 23:13:00,293 - INFO - sending message(id:12) to ('10.254.224.48', 59526)
+2019-06-07 23:13:00,795 - INFO - sending message(id:13) to ('10.254.224.48', 59526)
+2019-06-07 23:13:01,297 - INFO - sending message(id:14) to ('10.254.224.48', 59526)
+2019-06-07 23:13:01,799 - INFO - sending message(id:15) to ('10.254.224.48', 59526)
+2019-06-07 23:13:02,303 - INFO - sending message(id:16) to ('10.254.224.48', 59526)
+2019-06-07 23:13:02,804 - INFO - sending message(id:17) to ('10.254.224.48', 59526)
+2019-06-07 23:13:03,306 - INFO - sending message(id:18) to ('10.254.224.48', 59526)
+2019-06-07 23:13:03,807 - INFO - sending message(id:19) to ('10.254.224.48', 59526)
+2019-06-07 23:13:04,309 - INFO - sending message(id:20) to ('10.254.224.48', 59526)
+2019-06-07 23:13:04,811 - INFO - sending message(id:21) to ('10.254.224.48', 59526)
+2019-06-07 23:13:05,314 - INFO - sending message(id:22) to ('10.254.224.48', 59526)
+2019-06-07 23:13:05,815 - INFO - sending message(id:23) to ('10.254.224.48', 59526)
+2019-06-07 23:13:06,319 - INFO - sending message(id:24) to ('10.254.224.48', 59526)
+2019-06-07 23:13:06,820 - INFO - sending message(id:25) to ('10.254.224.48', 59526)
+2019-06-07 23:13:07,322 - INFO - sending message(id:26) to ('10.254.224.48', 59526)
+2019-06-07 23:13:07,824 - INFO - sending message(id:27) to ('10.254.224.48', 59526)
+2019-06-07 23:13:08,326 - INFO - sending message(id:28) to ('10.254.224.48', 59526)
+2019-06-07 23:13:08,828 - INFO - sending message(id:29) to ('10.254.224.48', 59526)
+2019-06-07 23:13:09,332 - INFO - sending message(id:30) to ('10.254.224.48', 59526)
+2019-06-07 23:13:09,833 - INFO - sending message(id:31) to ('10.254.224.48', 59526)
+2019-06-07 23:13:10,335 - INFO - sending message(id:32) to ('10.254.224.48', 59526)
+2019-06-07 23:13:10,836 - INFO - sending message(id:33) to ('10.254.224.48', 59526)
+2019-06-07 23:13:11,339 - INFO - sending message(id:34) to ('10.254.224.48', 59526)
+2019-06-07 23:13:11,840 - INFO - sending message(id:35) to ('10.254.224.48', 59526)
+2019-06-07 23:13:12,208 - INFO - stream_thread.join()
+2019-06-07 23:13:12,342 - INFO - listen_thread.join()
